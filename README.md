@@ -1,3 +1,4 @@
 # Al-Mafia
-Machine Learning
+# Machine Learning
+
 This repo consist of some small ML projects
